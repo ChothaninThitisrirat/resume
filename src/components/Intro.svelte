@@ -4,9 +4,7 @@
 	export let phone: string = '';
 	export let email: string = '';
 	export let github: string = '';
-	export let linkedin: string = '';
 	export let location: string = '';
-	export let website: string = '';
 </script>
 
 <div class="flex flex-wrap flex-col sm:flex-row print:flex-row text-sm sm:text-base">
@@ -30,10 +28,8 @@
 			>
 		</p>
 		<p>
-			<a href={`https://${website}`} target="_blank" rel="noreferrer">{website}</a>
 		</p>
 		<p>
-			<a href={`https://linkedin.com/in/${linkedin}`} target="_blank" rel="noreferrer">Linkedin</a>
 		</p>
 	</div>
 </div>
