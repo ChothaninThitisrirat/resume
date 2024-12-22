@@ -13,26 +13,31 @@
 		{
 			"name": "BlitzBook Website",
 			"details": "A comic store website for those who love comic books.",
-			"url": "https://github.com/Narutchai01/BlitzBook",
+			"url": "github.com/Narutchai01/BlitzBook",
 			"hide": false
 		},
 		{
 			"name": "SeaCentral Hotel Website",
 			"details": "A hotel booking website in an imaginary hotel called SeaCentral.",
-			"url": "https://github.com/SuperDoggez/WebPro_SeaCentral",
+			"url": "github.com/SuperDoggez/WebPro_SeaCentral",
 			"hide": false
 		},
 		{
 			"name": "B-Trade Website",
 			"details": "An exchange book website. A website that allows user to post books for trade and request trade with others.",
-			"url": "https://github.com/ChothaninThitisrirat/Capstone",
+			"url": "github.com/ChothaninThitisrirat/Capstone",
 			"hide": false
 		},
 		{
 			"name": "B-Trade Website(AI)",
 			"details": "In B-trade website we have 2 recommendation systems, content-based and collaborative for the most efficient for recommend books to users.",
-			"url": "https://github.com/ChothaninThitisrirat/Capstone",
+			"url": "github.com/ChothaninThitisrirat/Capstone",
 			"hide": false
+		},
+		{
+			"name": "Analysis and Prediction of Cassava Production in Thailand Using Temperature and Rainfall Data",
+			"details": "This research focuses on analyzing and predicting cassava production in Thailand using climatic data, including monthly average temperature and accumulated rainfall to develop predictive models.",
+			"url": "drive.google.com/drive/folders/1wbzr5DsDxF17ELO3EHEZzjfQRdswOIz-?usp=sharing"
 		}
 	],
 	"technologies": [
@@ -55,7 +60,7 @@
 	],
 	"workExperiences": [
 		{
-			"position": "Co-Founder, Assistant Manager, Teacher Assistant",
+			"position": "Manager Assistant, Teacher Assistant",
 			"company": "ACS First Meet",
 			"url": "",
 			"years": ["2023"],
@@ -73,8 +78,16 @@
 			"url": "",
 			"details": [
 				"Paticipate in ATU-Net Summer Program 2024 at Universiti Teknologi Malaysia",
-				"A program that aima to explore Generative AI, 3D model and Johor's culture",
+				"A program that aims to explore Generative AI, 3D model and Johor's culture",
 				"Pratice English communication skill and exchange culture with other participants."
+			]
+		},
+		{
+			"position": "Teacher Assistant",
+			"company": "Warmkid camp 2024 'Computer Vision & NLP'",
+			"years": ["2024"],
+			"details": [
+				"Teach basic of Computer Vision and NLP."
 			]
 		}
 	],
@@ -85,8 +98,8 @@
 		}
 	],
 	"interests": [
-		"Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards",
-		"Typing : 120+ words per minute (Colemak Mod-DH layout)"
+		"Mechanical Keyboards",
+		"POPMART: Dimoo, Skullpanda"
 	],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/narze/resume",
